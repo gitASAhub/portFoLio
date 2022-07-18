@@ -1,6 +1,9 @@
 # portFoLio
 just a portFoLio in the making
 
+![animatedLoadingSpinnerThumbn](https://user-images.githubusercontent.com/103030864/179567521-ab9891c9-0496-4c43-8e8a-ec473ac5d31c.gif)
+
+
 
 toDo's / working on / idears / conCepts:
 
